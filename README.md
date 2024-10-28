@@ -6,6 +6,7 @@
     <li><p>I study the master in full stack web development from the ConquerBlocks academy</p></li>
     <li><p>Python</p></li>
     <li><p>HTML</p></li>
+    <li><p>Django</p></li>
     <li><p>I’m currently working on CSS</p></li>
     <li><p>I hope to continue learning other languages ​​and tools</p></li>
 </ul>

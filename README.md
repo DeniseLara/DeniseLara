@@ -1,5 +1,12 @@
 <h1 align="center">Hi, im Denise Lara</h1>
 
+<h2>About me</h2>
+<ul>
+    <li><p>Python</p></li>
+    <li><p>HTML</p></li>
+    <li><p>I’m currently working on CSS</p></li>
+    <li>I hope to continue learning other languages ​​and tools</li>
+</ul>
 <!--
 **DeniseLara/DeniseLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

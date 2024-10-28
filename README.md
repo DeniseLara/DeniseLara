@@ -7,6 +7,8 @@
     <li><p>I’m currently working on CSS</p></li>
     <li>I hope to continue learning other languages ​​and tools</li>
 </ul>
+
+<p>I will be uploading every small and big project I do, so I can get a job.</p>
 <!--
 **DeniseLara/DeniseLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

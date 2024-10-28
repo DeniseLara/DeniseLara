@@ -2,7 +2,7 @@
 
 <section align="center">
 <h2>About me</h2>
-<ul>
+<ul align="center">
     <li><p>I study the master in full stack web development from the ConquerBlocks academy</p></li>
     <li><p>Python</p></li>
     <li><p>HTML</p></li>

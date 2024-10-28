@@ -1,4 +1,4 @@
-<h1 aling="center">Hi, im Denise Lara</h1>
+<h1 align="center">Hi, im Denise Lara</h1>
 
 <!--
 **DeniseLara/DeniseLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,8 +6,8 @@
 <ul>
     <li><p>HTML</p></li>
     <li><p>CSS</p></li>
-    <li><p>Javascript<p><li>
-    <li><p>React<p><li>
+    <li><p>Javascript</p></li>
+    <li><p>React</p></li>
 
 </ul>
 

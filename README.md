@@ -1,15 +1,56 @@
-<h1 align="center">Hi, im Denise Lara</h1>
-<h2>Frontend developer<h2>
+<h1 align="center">Hi, I'm Denise Lara 👋</h1>
 
+### 👩‍💻 Frontend Developer | Passionate about Web Development and Design
 
-<h2>About me</h2>
-<ul>
-    <li><p>HTML</p></li>
-    <li><p>CSS</p></li>
-    <li><p>Javascript</p></li>
-    <li><p>React</p></li>
+---
 
-</ul>
+### About Me
+I'm a **Frontend Developer** with a keen interest in creating interactive and responsive web applications. I specialize in turning ideas into clean, beautiful, and performant code.
+
+- 🌐 **Languages & Technologies**:
+    - HTML5
+    - CSS3
+    - JavaScript (ES6+)
+    - React.js
+    - Git & GitHub
+
+- 🚀 **Tools & Frameworks**:
+    - Node.js
+    - Vite
+    - npm
+
+- 💻 **Currently Learning**:
+    - Advanced **JavaScript** (Mastering concepts like closures, asynchronous JavaScript, and advanced patterns)
+    - Advanced **React.js** (State management with Redux, hooks, context API, and performance optimization)
+    - **Next.js** (Learning about server-side rendering, static site generation, and building full-stack applications)
+
+---
+
+### 🚀 My Projects
+Here are some of the projects I’ve worked on:
+
+1. **[CaloriePro](#)**  
+   A web app that helps users track their daily calorie intake by searching for food items and adding them to their food history.  
+   - Built with React, Firebase, and custom API calls.
+   - Features: Food search, calorie tracking, user authentication, and a personalized dashboard.
+
+2. **[CineVibe](#)**  
+   A movie web app that allows users to browse movies, watch trailers, and discover trending films.  
+   - Built with React and integrated with the TMDb API.
+   - Features: Movie search, watch trailers, and explore movie genres.
+
+3. **[My Portfolio](#)**  
+   My personal portfolio showcasing my skills, projects, and background as a frontend developer.
+
+---
+
+### 📞 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/denise-lara-925458320)
+
+---
+
+Thanks for visiting my profile! 😊 Feel free to explore my repositories and reach out if you have any questions or opportunities. 💬
+
 
 <!--
 **DeniseLara/DeniseLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

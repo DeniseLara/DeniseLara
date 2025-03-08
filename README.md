@@ -46,6 +46,7 @@ Here are some of the projects I’ve worked on:
 
 ### 📞 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/denise-lara-925458320)
+- [Gmail] denisse2001.lara@gmail.com
 
 ---
 

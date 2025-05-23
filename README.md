@@ -18,11 +18,11 @@ I'm a **Frontend Developer** with a keen interest in creating interactive and re
     - Node.js
     - Vite
     - npm
+    - Firebase
 
 - 💻 **Currently Learning**:
     - Advanced **JavaScript** (Mastering concepts like closures, asynchronous JavaScript, and advanced patterns)
     - Advanced **React.js** (State management with Redux, hooks, context API, and performance optimization)
-    - **Next.js** (Learning about server-side rendering, static site generation, and building full-stack applications)
 
 ---
 

@@ -14,7 +14,7 @@ I'm a **Frontend Developer** with a keen interest in creating interactive and re
     - React.js
     - Git & GitHub
 
-- 🚀 **Tools & Frameworks**:
+- 🚀 **Tools**:
     - Node.js
     - Vite
     - npm
@@ -22,7 +22,7 @@ I'm a **Frontend Developer** with a keen interest in creating interactive and re
 
 - 💻 **Currently Learning**:
     - Advanced **JavaScript** (Mastering concepts like closures, asynchronous JavaScript, and advanced patterns)
-    - Advanced **React.js** (State management with Redux, hooks, context API, and performance optimization)
+    - Advanced **React.js** (State management with Zustand, hooks, context API, and performance optimization)
 
 ---
 

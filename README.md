@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Denise Lara 👋</h1>
 
-### 👩‍💻 Frontend Developer | Passionate about Web Development and Design
+### 👩‍💻 Frontend Developer | Passionate about Web Development
 
 ---
 

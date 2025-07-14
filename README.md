@@ -13,7 +13,7 @@ I'm a **Frontend Developer** with a strong passion for building interactive, acc
   HTML5 · CSS3 · JavaScript (ES6+) · React.js · Git & GitHub
 
 - 🔧 **Tools & Technologies**  
-  Node.js · Express.js · Vite · npm · Firebase · Google Cloud
+  Node.js · Express.js · Vite · npm · Firebase · Google Cloud · Render
 
 - 🌐 **Backend Knowledge**  
   FastAPI · Flask (Python) · RESTful APIs · Google Cloud Functions

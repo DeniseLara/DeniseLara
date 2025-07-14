@@ -26,21 +26,23 @@ I'm a **Frontend Developer** with a strong passion for building interactive, acc
 ---
 
 ### 🚀 My Projects
-Here are some of the projects I’ve worked on:
+Here are some of the projects I’ve built. Each repository includes a full README with features, tech stack, and deployment info:
 
-1. **[CaloriePro](#)**  
-   A web app that helps users track their daily calorie intake by searching for food items and adding them to their food history.  
-   - Built with React, Firebase, and custom API calls.
-   - Features: Food search, calorie tracking, user authentication, and a personalized dashboard.
+- 🔥 [CaloriePro](#)  
+  Track your daily calorie intake by searching and adding foods to your history.  
+  **React · Firebase · FastAPI · Google Cloud · Python · JavaScript**   
 
-2. **[CineVibe](#)**  
-   A movie web app that allows users to browse movies, watch trailers, and discover trending films.  
-   - Built with React and integrated with the TMDb API.
-   - Features: Movie search, watch trailers, and explore movie genres.
+- 🎬 [CineVibe](#)  
+  Discover trending movies, search by title, and watch trailers.  
+  **React · TMDb API · JavaScript**  
 
-3. **[My Portfolio](#)**  
-   My personal portfolio showcasing my skills, projects, and background as a frontend developer.
+- 🛍️ [BuyNow](#)  
+  Simulated e-commerce checkout and product browsing experience.
+  **Node.js · React · Stripe API · Express.js · Firebase · JavaScript**
 
+- 🌐 [My Portfolio](https://portfolio-wn18.onrender.com/)  
+  A personal website showcasing my skills and projects.  
+  **HTML · CSS · JavaScript · Python · Flask**  
 ---
 
 ### 📞 Let's Connect

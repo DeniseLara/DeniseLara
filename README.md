@@ -1,24 +1,23 @@
 <h1 align="center">Hi, I'm Denise Lara 👋</h1>
 
-### 👩‍💻 Frontend Developer | Passionate about Web Development
+<p align="center">
+  <strong>Frontend Developer</strong> • Passionate about Web Development • Focused on clean & responsive design
+</p>
 
 ---
 
 ### About Me
-I'm a **Frontend Developer** with a keen interest in creating interactive and responsive web applications. I specialize in turning ideas into clean, beautiful, and performant code.
+I'm a **Frontend Developer** with a strong passion for building interactive, accessible, and visually engaging web experiences. I enjoy turning complex ideas into elegant, functional interfaces.
 
-- 🌐 **Languages & Technologies**:
-    - HTML5
-    - CSS3
-    - JavaScript (ES6+)
-    - React.js
-    - Git & GitHub
+- 💻 **Main Skills**  
+  HTML5 · CSS3 · JavaScript (ES6+) · React.js · Git & GitHub
 
-- 🚀 **Tools**:
-    - Node.js
-    - Vite
-    - npm
-    - Firebase
+- 🔧 **Tools & Technologies**  
+  Node.js · Express.js · Vite · npm · Firebase · Google Cloud
+
+- 🌐 **Backend Knowledge**  
+  FastAPI · Flask (Python) · RESTful APIs · Google Cloud Functions
+
 
 - 💻 **Currently Learning**:
     - Advanced **JavaScript** (Mastering concepts like closures, asynchronous JavaScript, and advanced patterns)

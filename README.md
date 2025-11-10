@@ -10,7 +10,7 @@
 I'm a **Frontend Developer** with a strong passion for building interactive, accessible, and visually engaging web experiences. I enjoy turning complex ideas into elegant, functional interfaces.
 
 - 💻 **Main Skills**  
-  HTML5 · CSS3 · JavaScript (ES6+) · React.js · Git & GitHub
+  HTML5 · CSS3 · JavaScript (ES6+) · React.js 
 
 - 🔧 **Tools & Technologies**  
   Node.js · Express.js · Vite · npm · Firebase · Google Cloud · Render
@@ -19,9 +19,15 @@ I'm a **Frontend Developer** with a strong passion for building interactive, acc
   FastAPI · Flask (Python) · RESTful APIs · Google Cloud Functions
 
 
-- 💻 **Currently Learning**:
-    - Advanced **JavaScript** (Mastering concepts like closures, asynchronous JavaScript, and advanced patterns)
-    - Advanced **React.js** (State management with Zustand, hooks, context API, and performance optimization)
+  💻 Currently Learning:
+
+- TypeScript for both frontend and backend development (strong typing, interfaces, and advanced types)
+
+- NestJS (modular architecture, dependency injection, and REST API development)
+
+- Advanced JavaScript (mastering concepts like closures, asynchronous programming, and design patterns)
+
+- Advanced React.js (state management with Zustand, hooks, context API, and performance optimization)
 
 ---
 
@@ -40,14 +46,13 @@ Here are some of the projects I’ve built. Each repository includes a full READ
   Simulated e-commerce checkout and product browsing experience.
   **Node.js · React · Stripe API · Express.js · Firebase · JavaScript**
 
-- 🌐 [My Portfolio](https://portfolio-wn18.onrender.com/)  
+- 🌐 [My Portfolio](https://deniselara.onrender.com)  
   A personal website showcasing my skills and projects.  
   **HTML · CSS · JavaScript · Python · Flask**  
 ---
 
 ### 📞 Let's Connect
-- https://portfolio-wn18.onrender.com/
-- [LinkedIn](https://www.linkedin.com/in/denise-lara-925458320)
+- https://deniselara.onrender.com
 - denisse2001.lara@gmail.com
 
 ---

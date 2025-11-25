@@ -34,15 +34,15 @@ I'm a **Frontend Developer** with a strong passion for building interactive, acc
 ### 🚀 My Projects
 Here are some of the projects I’ve built. Each repository includes a full README with features, tech stack, and deployment info:
 
-- 🔥 [CaloriePro](#)  
+- 🔥 [CaloriePro](https://caloriepro.onrender.com/)  
   Track your daily calorie intake by searching and adding foods to your history.  
   **React · Firebase · FastAPI · Google Cloud · Python · JavaScript**   
 
-- 🎬 [CineVibe](#)  
+- 🎬 [CineVibe](https://cinevibe-o7ln.onrender.com/)  
   Discover trending movies, search by title, and watch trailers.  
   **React · TMDb API · JavaScript**  
 
-- 🛍️ [BuyNow](#)  
+- 🛍️ [BuyNow](https://buynow-gy88.onrender.com/)  
   Simulated e-commerce checkout and product browsing experience.
   **Node.js · React · Stripe API · Express.js · Firebase · JavaScript**
 

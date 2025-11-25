@@ -16,7 +16,7 @@ I'm a **Frontend Developer** with a strong passion for building interactive, acc
   Node.js · Express.js · Vite · npm · Firebase · Google Cloud · Render
 
 - 🌐 **Backend Knowledge**  
-  RESTful APIs · Express · TypeScript · Nestjs · Nodejs
+  RESTful APIs · TypeScript · Nestjs · Nodejs
 
 
   💻 Currently Learning:

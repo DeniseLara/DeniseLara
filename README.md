@@ -1,51 +1,51 @@
-<h1 align="center">👋 ¡Hola! Soy Denise Lara</h1>
-<h3 align="center">💻 Frontend Developer | Apasionada por el Desarrollo Web | Enfocada en diseño limpio y responsive</h3>
+<h1 align="center">👋 Hi! I'm Denise Lara</h1>
+<h3 align="center">💻 Frontend Developer | Passionate about Web Development | Focused on clean & responsive design</h3>
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy una **Desarrolladora Frontend** con una gran pasión por crear experiencias web interactivas, accesibles y visualmente atractivas. Me encanta transformar ideas complejas en interfaces elegantes y funcionales.
+I'm a **Frontend Developer** with strong passion for creating interactive, accessible, and visually appealing web experiences. I love transforming complex ideas into elegant and functional interfaces.
 
-- **Mis habilidades principales:**  
+- **Main Skills:**   
   `HTML5` `CSS3` `JavaScript (ES6+)` `React.js`
   
-- **Herramientas y Tecnologías:**  
+- **Tools & Technologies:**  
   `Node.js` `Express.js` `Vite` `npm` `Firebase` `Google Cloud` `Render`
   
-- **Conocimientos en Backend:**  
+- **Backend Knowledge:** 
   `RESTful APIs` `TypeScript` `NestJS` `Node.js`
 
-## 📚 Actualmente Aprendiendo
+## 📚 Currently Learning
 
-- **TypeScript** para desarrollo frontend y backend
-- **NestJS** (arquitectura modular, inyección de dependencias)
-- **JavaScript Avanzado** (closures, programación asíncrona, patrones de diseño)
-- **React.js Avanzado** (gestión de estado con Zustand, hooks, context API)
+- **TypeScript** for frontend and backend development
+- **NestJS** (modular architecture, dependency injection)
+- **Advanced JavaScript** (closures, asynchronous programming, design patterns)
+- **Advanced React.js** (state management with Zustand, hooks, context API)
 
 ---
 
-## 💼 Mis Proyectos Destacados
+## 💼 Featured Projects
 
 ### [CaloriePro](https://caloriepro.onrender.com/)
-Sistema para tracking de calorías diarias mediante búsqueda y registro de alimentos.
-- **Tecnologías:** `React` `Firebase` `FastAPI` `Google Cloud` `Python` `JavaScript`
+Daily calorie tracking system by searching and adding foods to your history.
+- **Technologies:** `React` `Firebase` `FastAPI` `Google Cloud` `Python` `JavaScript`
 
 ### [CineVibe](https://cinevibe-o7ln.onrender.com/)
-Plataforma para descubrir películas trending, buscar por título y ver trailers.
-- **Tecnologías:** `React` `TMDb API` `JavaScript`
+Platform to discover trending movies, search by title, and watch trailers.
+- **Technologies:** `React` `TMDb API` `JavaScript`
 
 ### [BuyNow](https://buynow-gy88.onrender.com/)
-Experiencia de e-commerce simulada con checkout y navegación de productos.
-- **Tecnologías:** `Node.js` `React` `Stripe API` `Express.js` `Firebase` `JavaScript`
+Simulated e-commerce experience with checkout and product browsing.
+- **Technologies:** `Node.js` `React` `Stripe API` `Express.js` `Firebase` `JavaScript`
 
 ### [Mi Portfolio](https://deniselara.onrender.com)
-Sitio web personal mostrando mis habilidades y proyectos.
-- **Tecnologías:** `HTML` `CSS` `JavaScript` `Python` `Flask`
+Personal website showcasing my skills and projects.
+- **Technologies:** `HTML` `CSS` `JavaScript` `Python` `Flask`
 
 ---
 
-## 📫 Conectemos
+## 📫 Let's Connect
 
 - **Portfolio:** [https://deniselara.onrender.com](https://deniselara.onrender.com)
 - **Email:** [denisse2001.lara@gmail.com](mailto:denisse2001.lara@gmail.com)
@@ -53,21 +53,7 @@ Sitio web personal mostrando mis habilidades y proyectos.
 ---
 
 <p align="center">
-  <i>¡Gracias por visitar mi perfil! 😊 No dudes en explorar mis repositorios y contactarme si tienes preguntas u oportunidades. 💬</i>
+  <i>Thanks for visiting my profile! 😊 Feel free to explore my repositories and reach out if you have any questions or opportunities. 💬</i>
 </p>
 
 
-<!--
-**DeniseLara/DeniseLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

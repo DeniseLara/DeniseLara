@@ -1,63 +1,60 @@
-<h1 align="center">Hi, I'm Denise Lara 👋</h1>
+<h1 align="center">👋 ¡Hola! Soy Denise Lara</h1>
+<h3 align="center">💻 Frontend Developer | Apasionada por el Desarrollo Web | Enfocada en diseño limpio y responsive</h3>
+
+---
+
+## 🚀 Sobre Mí
+
+Soy una **Desarrolladora Frontend** con una gran pasión por crear experiencias web interactivas, accesibles y visualmente atractivas. Me encanta transformar ideas complejas en interfaces elegantes y funcionales.
+
+- **Mis habilidades principales:**  
+  `HTML5` `CSS3` `JavaScript (ES6+)` `React.js`
+  
+- **Herramientas y Tecnologías:**  
+  `Node.js` `Express.js` `Vite` `npm` `Firebase` `Google Cloud` `Render`
+  
+- **Conocimientos en Backend:**  
+  `RESTful APIs` `TypeScript` `NestJS` `Node.js`
+
+## 📚 Actualmente Aprendiendo
+
+- **TypeScript** para desarrollo frontend y backend
+- **NestJS** (arquitectura modular, inyección de dependencias)
+- **JavaScript Avanzado** (closures, programación asíncrona, patrones de diseño)
+- **React.js Avanzado** (gestión de estado con Zustand, hooks, context API)
+
+---
+
+## 💼 Mis Proyectos Destacados
+
+### [CaloriePro](https://caloriepro.onrender.com/)
+Sistema para tracking de calorías diarias mediante búsqueda y registro de alimentos.
+- **Tecnologías:** `React` `Firebase` `FastAPI` `Google Cloud` `Python` `JavaScript`
+
+### [CineVibe](https://cinevibe-o7ln.onrender.com/)
+Plataforma para descubrir películas trending, buscar por título y ver trailers.
+- **Tecnologías:** `React` `TMDb API` `JavaScript`
+
+### [BuyNow](https://buynow-gy88.onrender.com/)
+Experiencia de e-commerce simulada con checkout y navegación de productos.
+- **Tecnologías:** `Node.js` `React` `Stripe API` `Express.js` `Firebase` `JavaScript`
+
+### [Mi Portfolio](https://deniselara.onrender.com)
+Sitio web personal mostrando mis habilidades y proyectos.
+- **Tecnologías:** `HTML` `CSS` `JavaScript` `Python` `Flask`
+
+---
+
+## 📫 Conectemos
+
+- **Portfolio:** [https://deniselara.onrender.com](https://deniselara.onrender.com)
+- **Email:** [denisse2001.lara@gmail.com](mailto:denisse2001.lara@gmail.com)
+  
+---
 
 <p align="center">
-  <strong>Frontend Developer</strong> • Passionate about Web Development • Focused on clean & responsive design
+  <i>¡Gracias por visitar mi perfil! 😊 No dudes en explorar mis repositorios y contactarme si tienes preguntas u oportunidades. 💬</i>
 </p>
-
----
-
-### About Me
-I'm a **Frontend Developer** with a strong passion for building interactive, accessible, and visually engaging web experiences. I enjoy turning complex ideas into elegant, functional interfaces.
-
-- 💻 **Main Skills**  
-  HTML5 · CSS3 · JavaScript (ES6+) · React.js 
-
-- 🔧 **Tools & Technologies**  
-  Node.js · Express.js · Vite · npm · Firebase · Google Cloud · Render
-
-- 🌐 **Backend Knowledge**  
-  RESTful APIs · TypeScript · Nestjs · Nodejs
-
-
-  💻 Currently Learning:
-
-- TypeScript for both frontend and backend development (strong typing, interfaces, and advanced types)
-
-- NestJS (modular architecture, dependency injection, and REST API development)
-
-- Advanced JavaScript (mastering concepts like closures, asynchronous programming, and design patterns)
-
-- Advanced React.js (state management with Zustand, hooks, context API, and performance optimization)
-
----
-
-### 🚀 My Projects
-Here are some of the projects I’ve built. Each repository includes a full README with features, tech stack, and deployment info:
-
-- 🔥 [CaloriePro](https://caloriepro.onrender.com/)  
-  Track your daily calorie intake by searching and adding foods to your history.  
-  **React · Firebase · FastAPI · Google Cloud · Python · JavaScript**   
-
-- 🎬 [CineVibe](https://cinevibe-o7ln.onrender.com/)  
-  Discover trending movies, search by title, and watch trailers.  
-  **React · TMDb API · JavaScript**  
-
-- 🛍️ [BuyNow](https://buynow-gy88.onrender.com/)  
-  Simulated e-commerce checkout and product browsing experience.
-  **Node.js · React · Stripe API · Express.js · Firebase · JavaScript**
-
-- 🌐 [My Portfolio](https://deniselara.onrender.com)  
-  A personal website showcasing my skills and projects.  
-  **HTML · CSS · JavaScript · Python · Flask**  
----
-
-### 📞 Let's Connect
-- https://deniselara.onrender.com
-- denisse2001.lara@gmail.com
-
----
-
-Thanks for visiting my profile! 😊 Feel free to explore my repositories and reach out if you have any questions or opportunities. 💬
 
 
 <!--

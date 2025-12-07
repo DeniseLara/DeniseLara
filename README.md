@@ -21,7 +21,7 @@ I'm a **Frontend Developer** with strong passion for creating interactive, acces
 - **TypeScript** for frontend and backend development
 - **NestJS** (modular architecture, dependency injection)
 - **Advanced JavaScript** (closures, asynchronous programming, design patterns)
-- **Advanced React.js** (state management with Zustand, hooks, context API)
+- **Advanced React.js** (state management with hooks & context API)
 
 ---
 

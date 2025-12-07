@@ -27,21 +27,21 @@ I'm a **Frontend Developer** with strong passion for creating interactive, acces
 
 ## 💼 Featured Projects
 
+### [Mi Portfolio](https://deniselara.onrender.com)
+Personal website showcasing my skills and projects.
+- **Technologies:** `HTML` `CSS` `JavaScript` `Python` `Flask`
+
 ### [CaloriePro](https://caloriepro.onrender.com/)
 Daily calorie tracking system by searching and adding foods to your history.
 - **Technologies:** `React` `Firebase` `FastAPI` `Google Cloud` `Python` `JavaScript`
-
-### [CineVibe](https://cinevibe-o7ln.onrender.com/)
-Platform to discover trending movies, search by title, and watch trailers.
-- **Technologies:** `React` `TMDb API` `JavaScript`
 
 ### [BuyNow](https://buynow-gy88.onrender.com/)
 Simulated e-commerce experience with checkout and product browsing.
 - **Technologies:** `Node.js` `React` `Stripe API` `Express.js` `Firebase` `JavaScript`
 
-### [Mi Portfolio](https://deniselara.onrender.com)
-Personal website showcasing my skills and projects.
-- **Technologies:** `HTML` `CSS` `JavaScript` `Python` `Flask`
+### [CineVibe](https://cinevibe-o7ln.onrender.com/)
+Platform to discover trending movies, search by title, and watch trailers.
+- **Technologies:** `React` `TMDb API` `JavaScript`
 
 ---
 

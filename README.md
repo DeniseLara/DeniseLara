@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me 
 
 I'm a **Frontend Developer** with strong passion for creating interactive, accessible, and visually appealing web experiences. I love transforming complex ideas into elegant and functional interfaces.
 
@@ -25,7 +25,7 @@ I'm a **Frontend Developer** with strong passion for creating interactive, acces
 
 ---
 
-## 💼 Featured Projects
+## 📂 Featured Projects
 
 ### [Mi Portfolio](https://deniselara.onrender.com)
 Personal website showcasing my skills and projects.

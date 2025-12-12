@@ -11,10 +11,10 @@ I'm a **Frontend Developer** with strong passion for creating interactive, acces
   `HTML5` `CSS3` `JavaScript (ES6+)` `React.js`
   
 - **Tools & Technologies:**  
-  `Node.js` `Express.js` `Vite` `npm` `Firebase` `Google Cloud` `Render`
+  `Node.js` `Express.js` `Vite` `npm` `Firebase` `Google Cloud` `Render` `Prisma`
   
 - **Backend Knowledge:** 
-  `RESTful APIs` `TypeScript` `NestJS` `Node.js`
+  `RESTful APIs` `TypeScript` `NestJS` `Node.js` `PostgreSQL`
 
 ## 📚 Currently Learning
 

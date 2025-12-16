@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Denise Lara</h1>
-<h3 align="center">💻 Frontend Developer | Passionate about Web Development | Focused on clean & responsive design</h3>
+<h3 align="center">Frontend Developer | Passionate about Web Development | Focused on clean & responsive design</h3>
 
 ---
 
